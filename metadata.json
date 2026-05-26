@@ -1,0 +1,6 @@
+{
+  "name": "Zeno",
+  "description": "🌿 ZENO — Zero Energy, Natural Order: A minimal Android planner that lives on your lock screen and barely touches your battery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
